@@ -1,0 +1,2 @@
+alias plog='git log --graph --pretty="%C(bold blue)<%an>%Creset: %s %Cgreen(%ad)%Creset %Cred%h%Creset"'
+alias ploga='git log --graph --pretty="%C(bold blue)<%an>%Creset: %s %Cgreen(%ad)%Creset %Cred%h%Creset" --all'
